@@ -1,7 +1,12 @@
-# 👋 Hi, I’m [@asim1cva](https://github.com/asim1cva)
+# 👋 Hi, I’m [@Asim](https://github.com/asim23663)
 
 ## 🌟 About Me
-I am a passionate mobile app developer with a keen interest in creating innovative solutions that enhance user experiences. I believe in the power of technology to transform ideas into reality.
+I’m a Mobile App Developer with 4+ years of experience. Experienced in building
+cross-platform (Flutter) and native (iOS/Android) mobile applications with expertise in state
+management (Provider, GetX, Riverpod, SwiftUI), clean architecture (MVVM, Clean
+Architecture), responsive UI design, REST API integration, and performance optimization,
+delivering high-quality, user-centric applications on time while following best practices and
+Agile methodologies.
 
 ## 👀 Interests
 - **Mobile App Development**: Crafting intuitive and engaging applications.
