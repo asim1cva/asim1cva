@@ -22,16 +22,16 @@ I’m eager to collaborate on mobile app projects! Whether you have a startup id
 
 ## 🌍 Projects
 Here are a few projects I've worked on:
-- **[Project Name](link-to-project)**: Brief description of what the project does.
-- **[Project Name](link-to-project)**: Brief description of what the project does.
-- **[Project Name](link-to-project)**: Brief description of what the project does.
+- **[Foodage](https://play.google.com/store/apps/details?id=com.digixvalley.foodage&hl=en_IE&gl=US)**: Find Food Reviews
+- **[Pickleball Manager](https://play.google.com/store/apps/details?id=com.digixvalley.pickleballmanager)**: Find Nearby Courts, Play Match Together, Update Live Score and Start Livestream.
+- **[Takehair](https://play.google.com/store/apps/details?id=com.takehair.app)**: Book a hairdresser
 
 ## 📫 Contact
 Feel free to reach out to me at: [asim1cva@gmail.com](mailto:asim1cva@gmail.com)
 
 ## 🚀 Let's Connect!
-- [LinkedIn](your-linkedin-profile) 
-- [Portfolio](your-portfolio-link)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-asim-514854137/) 
+- [Portfolio](https://docs.google.com/presentation/d/1PQkDcLS-yJ3k3smwYFMQ_JTaBrgUyNj_ndai5XLz9lY/edit?usp=sharing)
 
 ---
 
