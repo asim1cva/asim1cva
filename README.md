@@ -14,7 +14,7 @@ Agile methodologies.
 - **Emerging Technologies**: Keeping up with the latest trends in tech.
 
 ## 🌱 Current Learning
-I’m currently enhancing my skills in **Advanced Flutter**, exploring state management, animations, and integrations with backend services.
+I’m currently working as an iOS Developer using SwiftUI and also building cross-platform mobile applications with Flutter. I’m actively enhancing my skills in advanced Flutter, including state management, animations, and backend integrations, to create efficient and scalable mobile experiences.
 
 ## 💞️ Collaboration
 I’m eager to collaborate on mobile app projects! Whether you have a startup idea or an existing project, let’s connect and create something amazing together.
