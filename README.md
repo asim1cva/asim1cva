@@ -1,12 +1,9 @@
 # 👋 Hi, I’m [@Asim](https://github.com/asim23663)
 
 ## 🌟 About Me
-I’m a Mobile App Developer with 4+ years of experience. Experienced in building
-cross-platform (Flutter) and native (iOS/Android) mobile applications with expertise in state
-management (Provider, GetX, Riverpod, SwiftUI), clean architecture (MVVM, Clean
-Architecture), responsive UI design, REST API integration, and performance optimization,
-delivering high-quality, user-centric applications on time while following best practices and
-Agile methodologies.
+I’m a Mobile App Developer with 4+ years of experience delivering robust, high-quality mobile applications across both cross-platform (Flutter) and native (iOS/Android) environments. I specialize in modern state management solutions (Provider, GetX, Riverpod, SwiftUI), scalable architectures (MVVM, Clean Architecture), responsive UI design, seamless REST API integration, and performance optimization.
+
+I’m passionate about creating user-focused, reliable, and efficient mobile experiences, and I consistently follow industry best practices and Agile methodologies to ensure clean, maintainable, and timely delivery.
 
 ## 👀 Interests
 - **Mobile App Development**: Crafting intuitive and engaging applications.
