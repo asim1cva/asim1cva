@@ -17,10 +17,9 @@ I’m currently working as an iOS Developer using SwiftUI and also building cros
 I’m eager to collaborate on mobile app projects! Whether you have a startup idea or an existing project, let’s connect and create something amazing together.
 
 ## 💪 Skills
-- **Languages**: Dart, Java, JavaScript
-- **Frameworks**: Flutter, React Native
-- **Tools**: Git, Firebase, REST APIs
-- **Design**: Figma, Adobe XD
+- **Languages**: Dart, Swift, SwiftUI Kotlin,
+- **Frameworks**: SwiftUi, Flutter, Native(Android/iOS)
+- **Tools**: XCode, Android Studio, vsCode, Git, Firebase, Postman
 
 ## 🌍 Projects
 Here are a few projects I've worked on:
