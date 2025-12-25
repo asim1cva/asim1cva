@@ -40,7 +40,6 @@ Feel free to reach out to me at: [asim1cva@gmail.com](mailto:asim1cva@gmail.com)
 
 ## 🚀 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/muhammad-asim-514854137/) 
-- [Portfolio](https://docs.google.com/presentation/d/1PQkDcLS-yJ3k3smwYFMQ_JTaBrgUyNj_ndai5XLz9lY/edit?usp=sharing)
 
 ---
 
