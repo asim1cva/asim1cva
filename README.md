@@ -30,7 +30,7 @@ Here are a few projects I've worked on:
 - **[XyberVeil  VPN](https://apps.apple.com/us/app/xyberveil-vpn/id6747746478)**: Your Privacy, Veiled in Power
 - **[Virgo VPN](https://apps.apple.com/us/app/virgo-vpn/id6477369066)**: Your Digital Fortress
 - **[Onion VPN](https://apps.apple.com/us/app/onion-vpn/id6448857121)**: 
-- **Foodage [(Android)](https://play.google.com/store/apps/details?id=com.digixvalley.foodage&hl=en_IE&gl=US)**: Find Food Reviews
+- **Foodage [(Android)](https://play.google.com/store/apps/details?id=com.digixvalley.foodage&hl=en_IE&gl=US) [(IOS)](https://apps.apple.com/us/app/foodage-find-food-reviews/id1620709672)**: Find Food Reviews
 - **[Pickleball Manager](https://play.google.com/store/apps/details?id=com.digixvalley.pickleballmanager)**: Find Nearby Courts, Play Match Together, Update Live Score and Start Livestream.
 - **[Takehair](https://play.google.com/store/apps/details?id=com.takehair.app)**: Book a hairdresser
 
