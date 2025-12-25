@@ -34,6 +34,7 @@ Here are a few projects I've worked on:
 - **Foodage [(Android)](https://play.google.com/store/apps/details?id=com.digixvalley.foodage&hl=en_IE&gl=US) [(IOS)](https://apps.apple.com/us/app/foodage-find-food-reviews/id1620709672)**: Flutter app using Getx with MVC
 - **Pickleball Manager [(Android)](https://play.google.com/store/apps/details?id=com.digixvalley.pickleballmanager) [(IOS)](https://apps.apple.com/us/app/pickleball-manager/id1624464674)**: Flutter app using Getx with MVC
 - **Takehair [(Android)](https://play.google.com/store/apps/developer?id=Takehair) [(IOS)](https://apps.apple.com/us/developer/takehair/id1662470871)**: Flutter App
+- **Life Defender Alert [(IOS)](https://apps.apple.com/us/app/life-defender-alert-family/id6503321782)**: IOS app using SwiftUi and MVVM
 
 ## 📫 Contact
 Feel free to reach out to me at: [asim1cva@gmail.com](mailto:asim1cva@gmail.com)
