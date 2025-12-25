@@ -35,6 +35,7 @@ Here are a few projects I've worked on:
 - **Pickleball Manager [(Android)](https://play.google.com/store/apps/details?id=com.digixvalley.pickleballmanager) [(IOS)](https://apps.apple.com/us/app/pickleball-manager/id1624464674)**: Flutter app using Getx with MVC
 - **Takehair [(Android)](https://play.google.com/store/apps/developer?id=Takehair) [(IOS)](https://apps.apple.com/us/developer/takehair/id1662470871)**: Flutter App
 - **Life Defender Alert [(IOS)](https://apps.apple.com/us/app/life-defender-alert-family/id6503321782)**: IOS app using SwiftUi and MVVM
+- **Ishana Dance [(IOS)](https://apps.apple.com/app/ishana-dance/id1643969495)**: IOS app using SwiftUi and MVVM
 
 ## 📫 Contact
 Feel free to reach out to me at: [asim1cva@gmail.com](mailto:asim1cva@gmail.com)
