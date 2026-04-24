@@ -10,6 +10,8 @@ Senior Mobile Application Developer with 4+ years of experience building scalabl
 
 Proven track record of delivering production-ready applications, optimizing performance, and owning features end-to-end in fast-paced environments.
 
+Passionate about leveraging AI-driven tools to accelerate development and improve efficiency.
+
 ---
 
 ## TECHNICAL SKILLS
