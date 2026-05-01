@@ -1,7 +1,6 @@
 # Muhammad Asim  
 📧 asim1cva@gmail.com  
 🔗 https://www.linkedin.com/in/muhammad-asim-514854137/  
-🌐 https://asim1cva.github.io/my-portfolio/  
 
 ---
 
