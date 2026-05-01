@@ -6,22 +6,22 @@
 ---
 
 ## PROFESSIONAL SUMMARY
-Senior Mobile Application Developer with 4+ years of experience building scalable, high-performance mobile applications using Flutter, SwiftUI, and Kotlin. Specialized in Clean Architecture, MVVM, and advanced state management (Riverpod, GetX).
+Mobile Application Developer with 4+ years of experience in designing, developing, and maintaining scalable, high-performance mobile applications across multiple platforms. Proficient in modern development frameworks and tools, with a strong focus on clean code, maintainable architecture, and efficient state management.
 
-Proven track record of delivering production-ready applications, optimizing performance, and owning features end-to-end in fast-paced environments.
+Experienced in delivering production-ready applications, optimizing performance, and managing features end-to-end in fast-paced environments. Adept at translating business requirements into technical solutions and continuously improving user experience.
 
-Passionate about leveraging AI-driven tools to accelerate development and improve efficiency.
+Passionate about staying up-to-date with emerging technologies and leveraging modern tools to enhance development efficiency and product quality.
 
 ---
 
 ## TECHNICAL SKILLS
 
-Languages: Dart, Swift, Kotlin  
-Frameworks: Flutter, SwiftUI, UIKit, Android Native  
-Architecture: MVVM, Clean Architecture, Repository Pattern, Modular Architecture  
-State Management: Riverpod, GetX, Provider, Bloc  
-Tools: Xcode, Android Studio, VS Code, Git, GitHub  
-Backend: Firebase (Authentication, Firestore, FCM), REST APIs  
+Languages: Swift
+Frameworks & SDKs: SwiftUI, UIKit
+Architecture & Design Patterns: MVVM, Clean Architecture, Modular Architecture
+State Management: Combine, MVVM Bindings
+Backend & APIs: RESTful APIs, Firebase (Authentication, Firestore, FCM)
+Tools & Platforms: Xcode, Git, GitHub 
 
 ---
 
@@ -30,32 +30,15 @@ Backend: Firebase (Authentication, Firestore, FCM), REST APIs
 ### Mobile Application Developer  
 DigitalD.tech LLC | Feb 2025 – Present  
 
-- Leading development of cross-platform and iOS applications using Flutter and SwiftUI  
-- Architecting applications using MVVM and Clean Architecture for scalability and maintainability  
-- Improving app performance and responsiveness through optimized API handling and efficient state management  
-- Developing reusable and modular components to accelerate feature delivery  
-- Collaborating with cross-functional teams to deliver high-quality production releases  
-
 ---
 
 ### Mobile Application Developer (Flutter / iOS / Android)  
 Digixvalley LLC | Feb 2022 – Oct 2024  
 
-- Delivered multiple production mobile applications across iOS and Android platforms  
-- Implemented scalable architectures (MVVM, Clean Architecture) across projects  
-- Integrated REST APIs and Firebase services, enabling real-time and data-driven features  
-- Reduced UI lag and improved app responsiveness through performance optimization  
-- Built maintainable codebases with reusable components and structured modules  
-
 ---
 
 ### Android Developer  
 DevSaar, Lahore | Jan 2020 – Feb 2022  
-
-- Developed and maintained Android applications using Kotlin and modern architecture patterns  
-- Implemented API integrations and backend communication for dynamic content  
-- Improved application stability and performance through debugging and optimization  
-- Collaborated with teams to deliver user-friendly and reliable mobile applications  
 
 ---
 
@@ -88,6 +71,6 @@ Mobile Architecture • Performance Optimization • API Integration • Scalabl
 ---
 
 ## KEYWORDS
-Flutter Developer, iOS Developer, Android Developer, SwiftUI, Kotlin, Dart, MVVM, Clean Architecture, Firebase, REST API, Riverpod, Performance Optimization  
+iOS Developer, Flutter Developer, Android Developer, SwiftUI, Kotlin, Dart, MVVM, Clean Architecture, Firebase, REST API, Riverpod, Performance Optimization  
 
 ---
